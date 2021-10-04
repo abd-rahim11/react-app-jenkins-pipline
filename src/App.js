@@ -8,8 +8,8 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
         <h1> Hello World </h1>
-      <h2> My name is Abdelali Jadelmoula </h2>
-<h3> I am in love with devops (CI/CD) pipeline </h3>
+      <h2> My name is Abderrahim Bounawara </h2>
+<h3> Learning how to build CI/CD pipeline with jenkins and ansible </h3>
         </p>
         <a
           className="App-link"
